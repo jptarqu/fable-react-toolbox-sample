@@ -1,0 +1,12 @@
+c:\Sources\public\fable-webpack-demo\src\webpackSample\bin\Debug\webpackSample.dll
+c:\Sources\public\fable-webpack-demo\src\webpackSample\bin\Debug\FSharp.Core.dll
+c:\Sources\public\fable-webpack-demo\src\webpackSample\bin\Debug\FSharp.Core.xml
+c:\Sources\public\fable-webpack-demo\src\webpackSample\obj\Debug\webpackSample.fsprojResolveAssemblyReference.cache
+c:\Sources\public\fable-webpack-demo\src\webpackSample\bin\Debug\Fable.Core.dll
+c:\Sources\public\fable-webpack-demo\src\webpackSample\bin\Debug\Fable.Core.xml
+c:\Sources\public\jpt\fable-webpack-demo\src\webpackSample\bin\Debug\webpackSample.dll
+c:\Sources\public\jpt\fable-webpack-demo\src\webpackSample\bin\Debug\Fable.Core.dll
+c:\Sources\public\jpt\fable-webpack-demo\src\webpackSample\bin\Debug\FSharp.Core.dll
+c:\Sources\public\jpt\fable-webpack-demo\src\webpackSample\bin\Debug\FSharp.Core.xml
+c:\Sources\public\jpt\fable-webpack-demo\src\webpackSample\bin\Debug\Fable.Core.xml
+c:\Sources\public\jpt\fable-webpack-demo\src\webpackSample\obj\Debug\webpackSample.fsprojResolveAssemblyReference.cache

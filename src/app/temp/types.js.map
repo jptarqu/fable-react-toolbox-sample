@@ -1,0 +1,1 @@
+{"version":3,"sources":["..\\..\\webpackSample\\types.fs"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAIO;AACD,4BAAY;AAAA;AAAO,GAAnB;;AADC;AACE,CADF","file":"types.js","sourcesContent":["namespace webpackSample\r\n\r\ntype Past = { Va: string}\r\n\r\nmodule PastHelper = \r\n  let add a1 a2 = a1 + a2"]}

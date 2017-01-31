@@ -1,0 +1,14 @@
+{
+    "sourceMaps": true,
+    "projFile": "./src/webpackSample/webpackSample.fsproj",
+    "outDir": "./src/app/temp",
+    "module": "commonjs",
+    
+    "targets": {
+        "watch": {
+            "scripts": {
+                "postbuild": "webpack --watch"
+            }
+        }
+    }
+}
